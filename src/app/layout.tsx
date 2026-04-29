@@ -21,6 +21,28 @@ export const metadata: Metadata = {
       "msvalidate.01": "0E8CC3A34FCD6B0D846A0668AD1E3A09",
     },
   },
+  openGraph: {
+    title: "LaserCraft 2026 - Top 10 Grabadoras Láser",
+    description: "Las mejores grabadoras láser para el hogar por menos de 300€. Comparativa, tutorial y guía de compra definitiva 2026.",
+    url: "https://laser-craft-2026.vercel.app",
+    siteName: "LaserCraft 2026",
+    images: [
+      {
+        url: "https://laser-craft-2026.vercel.app/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "LaserCraft 2026 - Top 10 Grabadoras Láser",
+      },
+    ],
+    locale: "es_ES",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "LaserCraft 2026 - Top 10 Grabadoras Láser",
+    description: "Las mejores grabadoras láser para el hogar por menos de 300€. Comparativa, tutorial y guía definitiva 2026.",
+    images: ["https://laser-craft-2026.vercel.app/og-image.png"],
+  },
 };
 
 export default function RootLayout({
