@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   description: "Descubre las mejores grabadoras láser para el hogar y emprendedores en 2026. Comparativas, reseñas y guías de mantenimiento.",
   verification: {
     google: "fZUOj4Z8UPBXyzy1mejxBIccTzzIZTcgc5CMkwP_8wc",
+    other: {
+      "msvalidate.01": "0E8CC3A34FCD6B0D846A0668AD1E3A09",
+    },
   },
 };
 
