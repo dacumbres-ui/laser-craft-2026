@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "LaserCraft 2026 - Top Grabadoras Láser",
   description: "Descubre las mejores grabadoras láser para el hogar y emprendedores en 2026. Comparativas, reseñas y guías de mantenimiento.",
+  verification: {
+    google: "fZUOj4Z8UPBXyzy1mejxBIccTzzIZTcgc5CMkwP_8wc",
+  },
 };
 
 export default function RootLayout({
