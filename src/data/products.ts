@@ -5,7 +5,7 @@ export const products = [
   {
     title: "LONGER Ray5 Mini Grabadora Láser 5.5W",
     imagePath: "/LONGER Ray5 Mini Grabadora Láser 5.5W.jpg",
-    amazonLink: "https://www.amazon.es/dp/B0FX9JC9ZK",
+    amazonLink: "https://www.amazon.es/dp/B0FX9JC9ZK?tag=davidcum-21",
     description: "Compacta pero potente. La LONGER Ray5 de 5.5W ofrece precisión en detalles finos y un tamaño perfecto para espacios reducidos. Ideal para pequeños emprendedores y hobbistas.",
     included: ["Módulo láser de 5.5W", "Gafas de protección", "Cables de conexión USB/Power", "Piezas de madera para pruebas", "Manual de montaje"],
     pros: ["Muy compacta y portátil", "Excelente precio para principiantes", "Pantalla táctil incorporada"],
@@ -24,7 +24,7 @@ export const products = [
   {
     title: "SCULPFUN C1 Mini grabadora láser",
     imagePath: "/SCULPFUN C1 Mini grabadora láser.jpg",
-    amazonLink: "https://www.amazon.es/dp/B0F845GHPS",
+    amazonLink: "https://www.amazon.es/dp/B0F845GHPS?tag=davidcum-21",
     description: "Una de las opciones más fáciles de ensamblar. La SCULPFUN C1 Mini te permite empezar a grabar en minutos con un diseño súper ligero y versátil.",
     included: ["Módulo láser SCULPFUN", "Estructura principal pre-ensamblada", "Gafas protectoras láser", "Adaptador de corriente", "Llaves hexagonales"],
     pros: ["Ensamblaje casi instantáneo", "Diseño cerrado muy seguro", "Ligera y fácil de guardar"],
@@ -43,7 +43,7 @@ export const products = [
   {
     title: "ATOMSTACK SWIFT MINI 3W",
     imagePath: "/ATOMSTACK SWIFT MINI 3W.jpg",
-    amazonLink: "https://www.amazon.es/dp/B0G1RNLFNN",
+    amazonLink: "https://www.amazon.es/dp/B0G1RNLFNN?tag=davidcum-21",
     description: "Módulo láser de 3W ultrapreciso. Ideal para trabajar en materiales blandos como madera fina, cuero y papel con un enfoque extremadamente nítido.",
     included: ["Grabadora ATOMSTACK 3W", "Fuente de alimentación", "Cable USB", "Placas protectoras", "Gafas de seguridad"],
     pros: ["Precisión micrométrica", "Súper económica", "Muy silenciosa"],
@@ -62,7 +62,7 @@ export const products = [
   {
     title: "SCULPFUN S9",
     imagePath: "/SCULPFUN S9.jpg",
-    amazonLink: "https://www.amazon.es/dp/B0BNQ6MVCC",
+    amazonLink: "https://www.amazon.es/dp/B0BNQ6MVCC?tag=davidcum-21",
     description: "Un clásico confiable. La SCULPFUN S9 incorpora tecnología de modelado de rayo láser para lograr cortes más profundos y grabados más definidos que máquinas de su misma gama.",
     included: ["Módulo láser S9 de 5.5W", "Kit de marco X/Y", "Rodillos de precisión", "Placa de acero para escritorio", "Gafas de protección"],
     pros: ["Láser con rayo súper fino (0.06mm)", "Capacidad de corte superior a su competencia", "Estructura metálica muy estable"],
@@ -81,7 +81,7 @@ export const products = [
   {
     title: "Sculpfun 5W",
     imagePath: "/Sculpfun 5W.jpg",
-    amazonLink: "https://www.amazon.es/dp/B09MCVLVMZ",
+    amazonLink: "https://www.amazon.es/dp/B09MCVLVMZ?tag=davidcum-21",
     description: "Excelente relación calidad-precio. Esta versión de 5W equilibra la potencia suficiente para grabar en diversos materiales sin comprometer la seguridad ni el consumo eléctrico.",
     included: ["Estructura completa", "Módulo láser 5W", "Adaptador de corriente", "Cables", "Láminas de prueba"],
     pros: ["Fiabilidad SCULPFUN", "Consumo eléctrico bajo", "Compatible con LightBurn"],
@@ -100,7 +100,7 @@ export const products = [
   {
     title: "ATOMSTACK",
     imagePath: "/ATOMSTACK.jpg",
-    amazonLink: "https://www.amazon.es/dp/B0FBWTRFY3",
+    amazonLink: "https://www.amazon.es/dp/B0FBWTRFY3?tag=davidcum-21",
     description: "Durabilidad y robustez en una sola estructura metálica. ATOMSTACK proporciona una estabilidad inigualable, minimizando las vibraciones durante trabajos de alta velocidad.",
     included: ["Marco de aleación de aluminio", "Módulo láser de alta potencia", "Caja de control", "Gafas", "Kit de herramientas"],
     pros: ["Marco industrial antichoque", "Soporta jornadas largas de trabajo", "Cristal protector panorámico"],
@@ -119,7 +119,7 @@ export const products = [
   {
     title: "cortador láser ACMER S2 7W",
     imagePath: "/cortador láser ACMER S2 7W.jpg",
-    amazonLink: "https://www.amazon.es/dp/B0FCYKTMMJ",
+    amazonLink: "https://www.amazon.es/dp/B0FCYKTMMJ?tag=davidcum-21",
     description: "Alta potencia de 7W. La ACMER S2 se destaca por su capacidad para cortar madera más gruesa y grabar en acrílico con una terminación impecable.",
     included: ["Módulo láser ACMER 7W", "Chasis ensamblable", "Gafas", "Bloque focal fijo", "Muestras de acrílico y madera"],
     pros: ["Corte rápido gracias a sus 7W reales", "Foco fijo muy fácil de ajustar", "Placa base de 32 bits"],
@@ -138,7 +138,7 @@ export const products = [
   {
     title: "Genmitsu Kortek",
     imagePath: "/Genmitsu Kortek.jpg",
-    amazonLink: "https://www.amazon.es/dp/B0FDKQ4DXS",
+    amazonLink: "https://www.amazon.es/dp/B0FDKQ4DXS?tag=davidcum-21",
     description: "Pensada para los entusiastas del CNC y láser. La Genmitsu Kortek cuenta con opciones de personalización avanzadas y software intuitivo para proyectos complejos.",
     included: ["Máquina Kortek completa", "Módulo láser", "Controlador avanzado", "Lentes de repuesto", "Software incluido"],
     pros: ["Ecosistema Genmitsu muy amplio", "Soporte técnico destacable", "Extensible con accesorios"],
@@ -157,7 +157,7 @@ export const products = [
   {
     title: "ATOMSTACK Swift 7W",
     imagePath: "/ATOMSTACK Swift 7W.jpg",
-    amazonLink: "https://www.amazon.es/dp/B0FMRR6K5W",
+    amazonLink: "https://www.amazon.es/dp/B0FMRR6K5W?tag=davidcum-21",
     description: "Velocidad y eficiencia. El modelo Swift de 7W aumenta la producción reduciendo el tiempo de grabado sin sacrificar ni un milímetro de resolución.",
     included: ["Módulo láser Swift 7W", "Motores paso a paso rápidos", "Estructura ATOMSTACK", "Gafas", "Cepillo de limpieza"],
     pros: ["Alta velocidad de grabado (hasta 10000mm/min)", "Corte efectivo en menos pasadas", "Diseño estético y moderno"],
@@ -176,7 +176,7 @@ export const products = [
   {
     title: "VEVOR Grabado Cnc 3018 Pro Cnc 3018 500mw",
     imagePath: "/VEVOR Grabado Cnc 3018 Pro Cnc 3018 500mw.jpg",
-    amazonLink: "https://www.amazon.es/dp/B0BZ48DP39",
+    amazonLink: "https://www.amazon.es/dp/B0BZ48DP39?tag=davidcum-21",
     description: "Una máquina híbrida fantástica. VEVOR ofrece fresado CNC y grabado láser de 500mw, brindando doble funcionalidad para makers creativos.",
     included: ["Estructura CNC 3018", "Motor de husillo de 10000 RPM", "Módulo Láser de 500mw", "Gafas de seguridad", "Fresas de repuesto"],
     pros: ["2 en 1: Fresadora y Láser", "Capaz de tallar metales blandos con el husillo", "Software GRBL integrado"],
