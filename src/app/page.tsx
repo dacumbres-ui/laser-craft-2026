@@ -5,6 +5,7 @@ import { ComparisonTable } from "@/components/ComparisonTable";
 import { HowItWorksTutorial } from "@/components/HowItWorksTutorial";
 import { FAQ } from "@/components/FAQ";
 import { CleaningGuide } from "@/components/CleaningGuide";
+import { BuyingGuide } from "@/components/BuyingGuide";
 import { Footer } from "@/components/Footer";
 import { WhatsAppButton } from "@/components/WhatsAppButton";
 import { BackgroundElements } from "@/components/BackgroundElements";
@@ -19,6 +20,7 @@ export default function Home() {
       <ComparisonTable />
       <HowItWorksTutorial />
       <CleaningGuide />
+      <BuyingGuide />
       <FAQ />
       <Footer />
       <WhatsAppButton />

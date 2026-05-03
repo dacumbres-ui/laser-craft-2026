@@ -4,6 +4,15 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ArrowUpRight, ShoppingCart, Star, StarHalf, X, Check, Package, ThumbsUp, ThumbsDown } from "lucide-react";
 import Image from "next/image";
+import { AMAZON_AFFILIATE_TAG } from "@/data/products";
+
+const getAffiliateLink = (url: string) => {
+  if (!url) return "#";
+  if (!url.includes("amazon") && !url.includes("amzn.eu")) return url;
+  
+  const separator = url.includes("?") ? "&" : "?";
+  return `${url}${separator}tag=${AMAZON_AFFILIATE_TAG}`;
+};
 
 interface Review {
   name: string;
@@ -86,7 +95,7 @@ export function ProductCard({
               Ver detalles
             </button>
             <a
-              href={amazonLink}
+              href={getAffiliateLink(amazonLink)}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center w-full px-4 py-3 text-sm font-semibold text-white transition-all rounded-xl bg-orange-600 hover:bg-orange-500 group/btn"
@@ -210,7 +219,7 @@ export function ProductCard({
 
                 <div className="mt-auto pt-6 border-t border-white/10">
                   <a
-                    href={amazonLink}
+                    href={getAffiliateLink(amazonLink)}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center w-full px-6 py-4 font-bold text-white transition-all rounded-xl bg-orange-600 hover:bg-orange-500 shadow-[0_0_20px_rgba(234,88,12,0.4)] hover:shadow-[0_0_30px_rgba(234,88,12,0.6)]"

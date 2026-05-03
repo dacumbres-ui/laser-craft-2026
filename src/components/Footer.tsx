@@ -10,10 +10,10 @@ export function Footer() {
           <p className="text-zinc-500 text-sm">
             © 2026 LaserCraft. Todos los derechos reservados.
           </p>
-          <div className="flex gap-6 text-sm text-zinc-500">
-            <Link href="#" className="hover:text-white transition-colors">Aviso Legal</Link>
-            <Link href="#" className="hover:text-white transition-colors">Política de Privacidad</Link>
-            <Link href="#" className="hover:text-white transition-colors">Política de Cookies</Link>
+          <div className="flex flex-wrap justify-center gap-6 text-sm text-zinc-500">
+            <Link href="/aviso-legal" className="hover:text-white transition-colors">Aviso Legal</Link>
+            <Link href="/politica-de-privacidad" className="hover:text-white transition-colors">Política de Privacidad</Link>
+            <Link href="/politica-de-cookies" className="hover:text-white transition-colors">Política de Cookies</Link>
           </div>
         </div>
         <p className="text-zinc-600 text-xs text-center mt-6">

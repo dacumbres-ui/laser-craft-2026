@@ -76,7 +76,16 @@ export function ComparisonTable() {
                 title="Haz clic para ver detalles"
               >
                 <td className="p-4 font-medium text-white whitespace-nowrap group-hover:text-orange-400 transition-colors">{item.title.split("Grabadora")[0].split("láser")[0].trim()}</td>
-                <td className="p-4 text-orange-400 font-semibold">{item.price}</td>
+                <td className="p-4">
+                  <a 
+                    href={item.amazonLink} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center px-3 py-1 rounded-full bg-orange-500/10 border border-orange-500/20 text-orange-400 text-xs font-bold hover:bg-orange-500 hover:text-white transition-all whitespace-nowrap"
+                  >
+                    Ver precio
+                  </a>
+                </td>
                 <td className="p-4 text-zinc-300">{item.power}</td>
                 <td className="p-4 text-zinc-300">{item.area}</td>
                 <td className="p-4 text-zinc-400 max-w-xs">{item.materials}</td>
