@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://laser-craft-2026.vercel.app",
+    canonical: "https://laser-craft.site",
   },
   verification: {
     google: "fZUOj4Z8UPBXyzy1mejxBIccTzzIZTcgc5CMkwP_8wc",
@@ -52,11 +52,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "LaserCraft 2026 - Top 10 Grabadoras Láser | Menos de 300€",
     description: "Las mejores grabadoras láser para el hogar por menos de 300€. Comparativa, tutorial y guía de compra definitiva 2026.",
-    url: "https://laser-craft-2026.vercel.app",
+    url: "https://laser-craft.site",
     siteName: "LaserCraft 2026",
     images: [
       {
-        url: "https://laser-craft-2026.vercel.app/og-image.png",
+        url: "https://laser-craft.site/og-image.png",
         width: 1200,
         height: 630,
         alt: "LaserCraft 2026 - Top 10 Grabadoras Láser para Casa",
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "LaserCraft 2026 - Top 10 Grabadoras Láser | Menos de 300€",
     description: "Las mejores grabadoras láser para el hogar por menos de 300€. Comparativa, tutorial y guía definitiva 2026.",
-    images: ["https://laser-craft-2026.vercel.app/og-image.png"],
+    images: ["https://laser-craft.site/og-image.png"],
   },
 };
 
@@ -78,8 +78,8 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://laser-craft-2026.vercel.app/#website",
-      url: "https://laser-craft-2026.vercel.app",
+      "@id": "https://laser-craft.site/#website",
+      url: "https://laser-craft.site",
       name: "LaserCraft 2026",
       description:
         "Las mejores grabadoras láser para el hogar por menos de 300€. Comparativa, tutorial y guía de compra definitiva 2026.",
@@ -89,24 +89,24 @@ const jsonLd = {
         target: {
           "@type": "EntryPoint",
           urlTemplate:
-            "https://laser-craft-2026.vercel.app/?s={search_term_string}",
+            "https://laser-craft.site/?s={search_term_string}",
         },
         "query-input": "required name=search_term_string",
       },
     },
     {
       "@type": "ItemList",
-      "@id": "https://laser-craft-2026.vercel.app/#top10",
+      "@id": "https://laser-craft.site/#top10",
       name: "Top 10 Grabadoras Láser 2026",
       description:
         "Las 10 mejores grabadoras láser para uso doméstico por menos de 300€",
-      url: "https://laser-craft-2026.vercel.app/#top-10",
+      url: "https://laser-craft.site/#top-10",
       numberOfItems: 10,
       itemListOrder: "https://schema.org/ItemListOrderDescending",
     },
     {
       "@type": "FAQPage",
-      "@id": "https://laser-craft-2026.vercel.app/#faq",
+      "@id": "https://laser-craft.site/#faq",
       mainEntity: [
         {
           "@type": "Question",
