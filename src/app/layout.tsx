@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     canonical: "https://laser-craft.site",
   },
   verification: {
-    google: "fZUOj4Z8UPBXyzy1mejxBIccTzzIZTcgc5CMkwP_8wc",
+    google: "cT6wX98_qdSU2lFzg59nxDpL9J-nDtNpQSkMlZaV0OQ",
     other: {
       "msvalidate.01": "0E8CC3A34FCD6B0D846A0668AD1E3A09",
     },
