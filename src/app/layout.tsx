@@ -40,6 +40,7 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  metadataBase: new URL("https://laser-craft.site"),
   alternates: {
     canonical: "https://laser-craft.site",
   },
