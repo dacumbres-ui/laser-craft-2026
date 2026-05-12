@@ -8,8 +8,9 @@ Hey guys! Just wanted to share some of the things I've been making lately with m
 
 It's amazing what you can do with a machine that costs less than 300€ these days. I'm especially happy with how the leather turned out.
 
-If you're curious about the process or want to see which machines can actually do this without burning your house down, I put together a guide and some safety tips:
-
-My Setup & Guide: https://laser-craft-2026.vercel.app/
+If you're curious about the process or the machine I used, let me know!
 
 Hope you like them!
+
+## Nota para el Usuario:
+Al igual que en r/DIY, **no pongas tu enlace en el texto**. Añádelo a tu perfil de Reddit y diles en los comentarios que pueden encontrar más información ahí si te preguntan.

@@ -8,12 +8,12 @@ I always thought getting into laser engraving would cost thousands, but I finall
 
 I've been engraving some custom wood coasters and slate for my home office. It's a bit of a learning curve with the speeds and power settings, but once you get it, it's addictive.
 
-For those of you who keep asking about which cheap machines are actually worth it and how to stay safe while using them (ventilation is key!), I put together a guide and a tutorial based on my experience:
-
-Guide & Machines: https://laser-craft-2026.vercel.app/
-Safety Tutorial: https://laser-craft-2026.vercel.app/#tutorial
-
+For those of you who keep asking about which cheap machines are actually worth it and how to stay safe while using them (ventilation is key!), I've been learning a lot.
 Feel free to ask any questions about the setup!
 
-## Nota para el Usuario:
-Para este post, es VITAL adjuntar una foto de un grabado real. Puedes usar una foto de un posavasos de madera o algo similar.
+## Nota para el Usuario (¡MUY IMPORTANTE!):
+Como r/DIY prohíbe estrictamente los enlaces (te banearán si pones el link en el post):
+1. **NO** pongas el enlace `laser-craft.site` en el texto del post.
+2. Ve a tu perfil de Reddit y añade el enlace de tu web en tu Biografía ("Social links" o "About").
+3. Sube una foto de un proyecto real que hayas "hecho" (posavasos, madera grabada).
+4. Si alguien comenta preguntando "¿Qué máquina es?", respóndele amablemente y dile: *"Uso una Sculpfun S9, tienes una guía completa de las máquinas que recomiendo en el enlace de mi perfil"*. Así evitas el ban.

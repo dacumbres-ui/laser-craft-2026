@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   },
   metadataBase: new URL("https://laser-craft.site"),
   alternates: {
-    canonical: "https://laser-craft.site",
+    canonical: "https://laser-craft.site/",
   },
   verification: {
     google: "cT6wX98_qdSU2lFzg59nxDpL9J-nDtNpQSkMlZaV0OQ",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "LaserCraft 2026 - Top 10 Grabadoras Láser | Menos de 300€",
     description: "Las mejores grabadoras láser para el hogar por menos de 300€. Comparativa, tutorial y guía de compra definitiva 2026.",
-    url: "https://laser-craft.site",
+    url: "https://laser-craft.site/",
     siteName: "LaserCraft 2026",
     images: [
       {

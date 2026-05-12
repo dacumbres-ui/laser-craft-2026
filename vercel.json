@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.laser-craft.site"
+        }
+      ],
+      "destination": "https://laser-craft.site/$1",
+      "permanent": true
+    }
+  ]
+}

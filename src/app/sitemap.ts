@@ -5,34 +5,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [
     {
-      url: baseUrl,
+      url: `${baseUrl}/`,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 1,
     },
     {
-      url: `${baseUrl}/#top-10`,
+      url: `${baseUrl}/aviso-legal/`,
       lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.9,
+      changeFrequency: "yearly",
+      priority: 0.3,
     },
     {
-      url: `${baseUrl}/#tutorial`,
+      url: `${baseUrl}/politica-de-privacidad/`,
       lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.8,
+      changeFrequency: "yearly",
+      priority: 0.3,
     },
     {
-      url: `${baseUrl}/#limpieza`,
+      url: `${baseUrl}/politica-de-cookies/`,
       lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/#faq`,
-      lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.7,
+      changeFrequency: "yearly",
+      priority: 0.3,
     },
   ];
 }

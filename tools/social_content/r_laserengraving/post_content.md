@@ -18,6 +18,6 @@ Some highlights:
 I wrote a detailed breakdown of each machine, including where to find them at the best price and what to look for before buying.
 
 You can check the full comparison here:
-https://laser-craft-2026.vercel.app/
+https://laser-craft.site/
 
 Hope this helps anyone looking to get started without spending a fortune!
